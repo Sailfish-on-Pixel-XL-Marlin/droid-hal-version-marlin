@@ -2,7 +2,6 @@
 
 %define device marlin
 %define vendor google
-%define droid_target_aarch64 1
 
 
 # Manufacturer and device name to be shown in UI
